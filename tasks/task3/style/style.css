@@ -1,0 +1,12 @@
+button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#quote {
+    margin-top: 20px;
+    font-size: 18px;
+    color: navy;
+}
